@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Actividad3</string>
+    <string name="UnaTitol">Una Titol</string>
+    <string name="Boton_LogCat">Boton Logcat</string>
+    <string name="Boton_Toast">Boton Toast</string>
+    <string name="Descripcion">Descripcion</string>
+</resources>
